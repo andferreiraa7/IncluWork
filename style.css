@@ -183,7 +183,7 @@ header {
     align-items: center;
     height: 100vh;
     width: 100%;
-    background-image: url(../image/imagem-container.png);
+    background-image: url(imagem-container.png);
     background-repeat: no-repeat;
     background-size: cover;
 background-blend-mode: multiply;
